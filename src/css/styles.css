@@ -271,7 +271,7 @@ h4{
 .btn-demo{
     background-color: var(--coloBotonHover);
 }
-/* Styles for Section Newsletter */
+/* STYLES FOR SECTION NEWSLETTER */
 .newsletter-content{
     background-color: var(--colorTerciario);
     border-radius: 0.5rem;
@@ -333,4 +333,11 @@ h4{
 }
 .button-newsletter:hover{
     background-color: var(--coloBotonHover);
+}
+
+/* STYLES FOR SECTION FOOTER */
+
+footer{
+    background-color: var(--colorSecundario);
+    color: var(--colorFuente);
 }
